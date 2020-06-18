@@ -7,10 +7,9 @@
     "bio":"Backend Engineer with a bit Front End with a huge interest in learning Data Science. I love to teach and learn an do sports in my free time. I also study Japanese because I love languages as I love programming languages. ",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "eliana_474@hotmail.com",
-    "phone": "555-555-5555",
     "address":{
       "street":"Almagro",
-      "city":"City of Buenos Aires",
+      "city":"Buenos Aires",
       "zip": "C1191"
     },
     "website": "http://www.timbakerdev.com",
@@ -33,12 +32,12 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/eliana-moran-964a074a/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/effiemoran47/",
         "className":"fa fa-instagram"
       },
       {
@@ -57,15 +56,21 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"National University of Technology",
+        "degree":"Técnico Universitario en Programación (Higher Education in Programming)",
+        "graduated":"December 2018",
+        "description":"Development of complete projects from scratch. Several programming languages like PHP, Java and C#."
       },
       {
         "school":"School #1 Maybe College?",
         "degree":"What did you study 101",
-        "graduated":"March 2003",
+        "graduated":"December 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"High School - CEP N° 73 Libertador General Jose de San Martin",
+        "degree":"What did you study 101",
+        "graduated":"December 2007",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
@@ -89,12 +94,12 @@
         "level":"60%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Java",
+        "level":"90%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"30%"
       },
       {
         "name":"CSS",
@@ -105,12 +110,12 @@
         "level":"80%"
       },
       {
-        "name":"VueJs",
+        "name":"Node",
         "level":"50%"
       },
       {
         "name":"MongoDB",
-        "level":"80%"
+        "level":"70%"
       }
     ]
   },
