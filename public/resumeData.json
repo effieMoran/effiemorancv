@@ -76,16 +76,34 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Almundo",
+        "title":"Java Software Engineer",
+        "years":"April 2018 - Present",
+        "description":"Payment Methods team. Works mostly in REST micro services. Uses and spectrum of tools, like Mongo, and Elastic Search as databases.  Did a microservice migration by herself. Did an entire  microservice migration by herself. Does maintenance of the front end applications. Also participates in Architectural decisions of the microservices. Does integrations test with the company framework."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Almundo",
+        "title":"Java Software Engineer",
+        "years":"April 2018 - Present",
+        "description":"Hotels team. Mostly backend in rest applications. Worked with Jenkins pipelines. Mysql Database. Did also analysis and unit test."
+      },
+      {
+        "company":"Thadehelm",
+        "title":"Software Engineer in Test",
+        "years":"August 2018 - June 2019",
+        "description":"CME Group. Was a part of the Deployment's Team also called RegOps. The tool maintained and developed was java based and used Selenium and Cucumber. Was a lead developer in an automation project project the included scripting."
+      },
+      {
+        "company":"Globant",
+        "title":"Java Developer",
+        "years":"November 2017 - March 2018",
+        "description":"Open Bank. Loans team. I work in the Loans team. The main job consisted in migrating existing SOAP microservices into REST services. Actively participated in the code review process, sprint demos and improvement suggestions. Had the opportunity to collaborate with other teams of Open bank like Payments and ATM due to the similarity o the main structure. SCRUM as an agile methodology."
+      },
+      {
+        "company":"Globant",
+        "title":"Java Developer",
+        "years":"April 2016 - October 2017",
+        "description":"Thomas Cook (British travel company ). The project was based in magnolia framework but it used a set of diverse technologies including Spring, Node.js MongoDB, Angular JS, Selenium, etc. The main job was to develop new functionality for the platform  to support multi language. Also made a new tool in node to promote and activate holiday campaigns. "
       }
     ],
     "skills":[
